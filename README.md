@@ -21,7 +21,7 @@ The analysis focuses on:
 ## 2. Data
 
 - Source: [Biden White House – Briefing Room: Statements & Releases](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/)
-- Initial scrape: ~200 statements (titles, dates, URLs, full text).
+- Initial scrape: 200 statements (titles, dates, URLs, full text).
 - Analysis subset: 46 statements with at least one of two keyword-based frames:
   - “middle class”, “working families”, “family budget”, “cost of living”, etc.
   - “tax”, “fair share”, “billionaires”, “wealthiest”, “loopholes”, etc.
@@ -33,7 +33,7 @@ All scraping and cleaning are done in code so the corpus can be reproduced.
 
 ## 3. Methods (Notebook Outline)
 
-The main steps in `finalproject_whitehouse_framing.ipynb` are:
+The main steps in `final_project_kellysun.ipynb` are:
 
 1. **Scraping & Raw Data Snapshot**
    - Use `requests` + `BeautifulSoup` to collect statement metadata and full text.
@@ -77,6 +77,5 @@ The main steps in `finalproject_whitehouse_framing.ipynb` are:
 
 ```text
 .
-├── finalproject_whitehouse_framing.ipynb   # Main notebook (text + code + charts)
+├── final_project_kellysun.ipynb            # Main notebook (text + code + charts)
 ├── README.md                               # Project overview and instructions
-└── data/                                   # Optional: cached CSV of scraped statements (if saved)
