@@ -70,3 +70,23 @@ The main steps in `final_project_kellysun.ipynb` are:
      - Level of language (household vs. system).
      - Overall tone.
      - Key actors and targets.
+    
+ ---
+
+## 4. Use of Generative AI (ChatGPT)
+I used ChatGPT to support this project in limited ways. All data collection, modeling decisions, and interpretation of results are my own.
+Here are examples of the prompts I used:
+
+1. **Understanding the assignment**
+   - “Please read the attached materials and clearly explain what the final project requires me to do, step by step and in a logical way.”
+   - “Based on these requirements, please suggest several possible project topics that would be feasible and appropriate.”
+
+2. **Working with code**
+   - “Here is my function for tagging White House statements into two frames. Does this logic make sense, and how could I write or structure it more clearly?”
+   - “This part of my code is throwing an error. Can you explain why it is happening and help me correct the code?”
+
+3. **Improving the write-up and checking against the rubric**
+   - “Please help me rewrite this paragraph so that it is clearer and more concise, without changing the meaning.”
+   - “Please check whether I am missing anything or need to revise any part of my project so that it fully matches the instructor’s rubric and structural requirements.”
+
+These conversations helped me clarify the assignment, fix small issues, and improve how I presented the project. I wrote and edited the notebook myself and made the final decisions about which analyses, charts, and conclusions to include.
