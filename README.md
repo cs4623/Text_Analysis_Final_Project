@@ -1,7 +1,7 @@
 # White House Framing of the Middle Class and Tax Fairness
 
 Final project for **Intro to Text Analysis in Python**.  
-Notebook: `finalproject_whitehouse_framing.ipynb`
+Notebook: `final_project_kellysun.ipynb`
 
 This project analyzes how the Biden White House talks about the **“middle class / working families”** compared with **“tax fairness / the wealthy”** in official economic statements. Using basic text-analysis tools in Python, it compares vocabulary, tone, and named actors across the two frames.
 
